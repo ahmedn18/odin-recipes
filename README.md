@@ -1,1 +1,1 @@
-This is a project done by me (Ahmed Nader) to demonstrate my knowledge and ability in writing HTML code (which is not really "code" but anyways). It's a recipe websites which shows some delicious recipes! Funny enough. 
+This is a project done by me (Ahmed Nader) to demonstrate my knowledge and ability in writing HTML code (which is not really "code" but anyways). It's a recipe website which shows some delicious recipes! Funny enough. 
