@@ -1,0 +1,23 @@
+
+h1,
+h2 {
+  color: #295f98;
+}
+
+a {
+  text-decoration: none;
+}
+
+small {
+  font-size: 10px;
+}
+
+li::marker {
+  color: #295f98;
+}
+
+.description {
+  font-weight: bold;
+}
+
+
