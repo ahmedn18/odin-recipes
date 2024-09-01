@@ -1,7 +1,8 @@
 * {
   font-family: monospace;
+  margin: 0px;
+  padding: 0px;
 }
-
 
 
 h1,
@@ -13,16 +14,62 @@ a {
   text-decoration: none;
 }
 
-small {
-  font-size: 10px;
-}
 
-li::marker {
-  color: #295f98;
-}
 
 .description {
   font-weight: bold;
 }
 
+.title {
+  margin: 20px auto;
+  text-align: center;
+  border: 2px dotted#8cbaeb;
+  padding: 5px;
+  width: 200px;
+}
+
+.recipe {
+  font-weight: bold;
+  list-style: none;
+  padding: 10px;
+  text-align: center;
+  border: 2px dotted#8cbaeb;
+  margin: 20px;
+}
+
+
+.view-recipe {
+  border-radius: 25px;
+  color: white;
+  background-color: #295f98;
+  padding: 2px;
+  margin: 5px auto;
+  font-size: 8px;
+  display: block;
+  width: 65px;
+}
+
+.home-image {
+  width: 300px;
+  height: auto;
+  margin-top: 10px;
+  padding: 0px;
+  border: 2px solid #6294c9;
+}
+
+.home-recipe-desc {
+  padding: 10px;
+  padding-bottom: 0px;
+  font-weight: 100;
+  font-size: 10px;
+}
+li::marker {
+  color: #295f98;
+}
+
+footer {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 8px;
+}
 
